@@ -1,7 +1,7 @@
 // This changes the title of your site
 
-var sitename = "native."; // Change this to change the name of your website.
-var subtext = "v1.2"; // set the subtext
+var sitename = "Alex Tingles Break Plaza."; // Change this to change the name of your website.
+var subtext = "Play to your hearts Conent. School can be tricky, everyone needs a break."; // set the subtext
 
 // more settings in main.css
 
